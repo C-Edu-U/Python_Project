@@ -1,0 +1,1 @@
+Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, some stock data will get extracted and then displayed in a graph.
